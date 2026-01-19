@@ -12,7 +12,7 @@ This hackpad is my first electronics project! I love the world of electronics an
 My PCB was made in KiCad, had a few issues routing the LED's.
 
 PCB Schematic 
-<div><img src = "assets/hackpad_schematic.png" width="500"></div>
+<div><img src = "assets/hackpad_schematic2.png" width="500"></div>
 
 PCB 
 <div><img src = "assets/hackpad_pcbARR.png" width="500"></div>
