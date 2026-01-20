@@ -19,7 +19,7 @@ PCB
 
 
 *And here's how the PCB will look once made
-<div><img src="assets/hackpad_3dmod.png"></div>
+<div><img src="assets/hackpad_3dmod.png" width="500"></div>
 
 
 ## CAD
