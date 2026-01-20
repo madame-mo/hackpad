@@ -22,7 +22,7 @@ PCB
 The 3D model of my Hackpad case was made in Onshape since I had a few issues installing Fusion360.
 
 Hackpad Case 3D Model 
-<div><img src = "assets/hackpad_3dmod.png" width="500"></div>
+<div><img src = "assets/hackpad_3dmodel.png" width="500"></div>
 
 ## Firmware
 
