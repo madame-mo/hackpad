@@ -18,11 +18,17 @@ PCB
 <div><img src = "assets/hackpad_sort.png" width="500"></div>
 
 
+*And here's how the PCB will look once made
+<div><img src="assets/hackpad_3dmod.png"></div>
+
+
 ## CAD
 The 3D model of my Hackpad case was made in Onshape since I had a few issues installing Fusion360.
 
 Hackpad Case 3D Model 
 <div><img src = "assets/hackpad_3dmodel.png" width="500"></div>
+
+
 
 ## Firmware
 
